@@ -1,0 +1,16 @@
+---
+content_type: resource
+description: ''
+file: null
+file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+resourcetype: Document
+title: Bringin' Home the Bacon transcript
+uid: 5861aee9-255d-42ae-90cd-1f98d78ee88b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: 3NlEuo_baRY
+---
