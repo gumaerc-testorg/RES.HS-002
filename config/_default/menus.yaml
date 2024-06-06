@@ -1,13 +1,13 @@
 leftnav:
-- identifier: cd707bc1-3d4b-4c7e-a684-649d2c8c06e2
-  name: Instructor Bios
-  pageRef: /pages/instructor-bios
+- identifier: fe560434-6d46-4b31-8c22-0d5c89475af5
+  name: Demonstration Videos
+  pageRef: /video_galleries/demonstration-videos
   weight: 10
 - identifier: 16632103-30fb-4f19-b31a-aa09071ad542
   name: Related Resources
   pageRef: /pages/related-resources
   weight: 20
-- identifier: 25142e07-22a5-4db5-a2d7-38f9b540f0c7
-  name: Demonstration Videos
-  pageRef: /pages/demonstrations-videos
+- identifier: cd707bc1-3d4b-4c7e-a684-649d2c8c06e2
+  name: Instructor Bios
+  pageRef: /pages/instructor-bios
   weight: 30
