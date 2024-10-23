@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/fire.pdf
+file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/fire.pdf
 file_size: 690482
 file_type: application/pdf
 image_metadata:
