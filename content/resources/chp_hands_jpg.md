@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/chp_hands.jpg
+file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/chp_hands.jpg
 file_size: 65027
 file_type: image/jpeg
 image_metadata:
