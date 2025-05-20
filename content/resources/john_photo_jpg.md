@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/john_photo.jpg
+file: courses/chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/john_photo.jpg
 file_size: 7315
 file_type: image/jpeg
 image_metadata:
