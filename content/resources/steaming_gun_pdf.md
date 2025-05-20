@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/steaming_gun.pdf
+file: courses/chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/steaming_gun.pdf
 file_size: 862507
 file_type: application/pdf
 image_metadata:

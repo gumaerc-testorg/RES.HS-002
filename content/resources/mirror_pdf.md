@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/mirror.pdf
+file: courses/chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/mirror.pdf
 file_size: 770989
 file_type: application/pdf
 image_metadata:
