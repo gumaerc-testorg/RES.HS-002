@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/snow.pdf
+file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/snow.pdf
 file_size: 754949
 file_type: application/pdf
 image_metadata:
