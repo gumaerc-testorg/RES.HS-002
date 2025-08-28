@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-002-chemistry-behind-the-magic-chemical-demonstrations-for-the-classroom/5Y3hS_ckeJE_captions.webvtt
 file_size: 12970
 file_type: application/x-subrip
 learning_resource_types: []
