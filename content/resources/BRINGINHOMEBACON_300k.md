@@ -53,4 +53,4 @@ Dr. John Dolhun is hungry. But the bacon he's got on the griddle isn't for him. 
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21339-bringin-home-the-bacon).
+You can also {{% resource_link "974a1192-fdb7-4347-948a-ca2667f483bf" "view this video on TechTV" %}}.

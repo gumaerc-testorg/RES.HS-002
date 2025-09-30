@@ -56,4 +56,4 @@ In a dark bottle at room temperature, hydrogen peroxide decomposes very, very sl
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21348-steaming-gun).
+You can also {{% resource_link "3eae36ff-aece-40c6-8906-13752afb56ce" "view this video on TechTV" %}}.
