@@ -54,4 +54,4 @@ Discover what disposable diapers and fake snow have in common.
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21344-let-it-snow).
+You can also {{% resource_link "10ed8fb6-6f4e-4290-af9b-5e5f631e5387" "view this video on TechTV" %}}.

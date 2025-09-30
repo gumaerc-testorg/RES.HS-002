@@ -53,4 +53,4 @@ Mix two mystery ingredients with some table sugar, and the result is... mirror, 
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21346-mirror-mirror).
+You can also {{% resource_link "c9cccb36-ce01-48e0-80af-68d6c99650a1" "view this video on TechTV" %}}.

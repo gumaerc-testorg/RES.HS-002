@@ -53,4 +53,4 @@ Discover the colorful chemistry that makes a good party glow.
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21337-anatomy-of-a-glowstick).
+You can also {{% resource_link "32db3a96-77b3-4eaf-b09c-8d240e83bc35" "view this video on TechTV" %}}.
