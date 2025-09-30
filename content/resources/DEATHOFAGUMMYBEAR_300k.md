@@ -54,4 +54,4 @@ A gummy bear may not be big, but its few grams of sugar contain a lot of energy.
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21340-death-of-a-gummy-bear).
+You can also {{% resource_link "b7006502-6797-4e60-8dba-c5bf1fb3d949" "view this video on TechTV" %}}.

@@ -54,4 +54,4 @@ Mix these two clear and colorless liquids—that both look just like water—and
 
 *Chemistry Magician:* Dr. Bassam Shakhashiri
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21345-midas-magic).
+You can also {{% resource_link "2e503841-8bb5-4600-a8df-b3513c28da51" "view this video on TechTV" %}}.

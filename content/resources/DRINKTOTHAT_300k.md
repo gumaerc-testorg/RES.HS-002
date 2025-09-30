@@ -53,4 +53,4 @@ Dr. John Dolhun is thirsty. But when he asks his assistant for a drink, he gets 
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21341-let-s-drink-to-that).
+You can also {{% resource_link "281ec96a-507c-4092-b789-0ede79df5f2a" "view this video on TechTV" %}}.

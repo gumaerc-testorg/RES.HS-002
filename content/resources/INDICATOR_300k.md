@@ -54,4 +54,4 @@ Colorful indicators tell the story of acids, bases, and the places in between.
 
 *Chemistry Magician:* Dr. Bassam Shakhashiri
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21343-colorful-indicators).
+You can also {{% resource_link "aa76b2e0-f92c-465f-8aa0-4049955d6e0b" "view this video on TechTV" %}}.

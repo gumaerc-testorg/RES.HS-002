@@ -53,4 +53,4 @@ Mix these three colorless liquids and you get a chemical reaction that can tell 
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also [view this video on TechTV](http://techtv.mit.edu/videos/21338-briggs-rauscher-reaction).
+You can also {{% resource_link "de02e9ff-ccc0-4211-85b0-278954916f15" "view this video on TechTV" %}}.
