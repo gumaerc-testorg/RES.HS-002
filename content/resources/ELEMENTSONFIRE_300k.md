@@ -53,4 +53,4 @@ Discover what happens when you burn different elements of the periodic table…
 
 *Chemistry Magician:* Dr. John Dolhun
 
-You can also {{% resource_link "e2f4daef-a0f6-4837-9f43-acf34dc163ee" "view this video on TechTV" %}}.
+You can also [view this video on TechTV](http://techtv.mit.edu/videos/21342-elements-on-fire).
