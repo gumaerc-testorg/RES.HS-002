@@ -53,4 +53,4 @@ The old adage takes on new meaning… with the help of a little flash paper and 
 
 *Chemistry Magician:* Dr. Bassam Shakhashiri
 
-You can also {{% resource_link "e1119efd-bc3b-4847-bb9a-76cfe9239987" "view this video on TechTV" %}}.
+You can also [view this video on TechTV](http://techtv.mit.edu/videos/21347-money-to-burn).
